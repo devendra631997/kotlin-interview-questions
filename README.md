@@ -5,7 +5,7 @@
 * Mobile Application (specially for android)
 * web development 
 * server side application
-* Data Science Apps
+* Data Science
 
 ### Why to use kotlin ?
 * Kotlin is fully compatible with java
